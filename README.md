@@ -8,3 +8,9 @@ In this project, I find the mean, median, and mode cost of one-bedroom apartment
 ### Note:
 
 This data comes from Streeteasy.com 
+
+### Results:
+
+First, I imported the datasets of the one-bedroom apartments in three of New York City's boroughs: Brooklym, Manhattan, and Queens. I wanted to know about the amount of rent for the apartments in each borough.
+
+![1](https://user-images.githubusercontent.com/89553126/135769677-22bc2430-441c-4345-a66e-db95d4f18727.PNG)

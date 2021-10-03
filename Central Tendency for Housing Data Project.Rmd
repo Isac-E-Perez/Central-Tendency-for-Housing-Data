@@ -98,5 +98,13 @@ if(exists("queens_median")) {
 } else {
   print("The mode price in Queens is not yet defined.")
 } 
+
+# This is the histogram
+hist(brooklyn_price,main="Brookyln Pricing",
+xlab="Cost of Rent")
+hist(manhattan_price,main="Manhattan Pricing",
+xlab="Cost of Rent")
+hist(queens_price,main="Queens Pricing",
+xlab="Cost of Rent")
 ```
  

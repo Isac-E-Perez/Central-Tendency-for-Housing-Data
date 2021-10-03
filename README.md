@@ -61,4 +61,4 @@ Finally, we could analyze the histogram.
 
 
 
-After analyzing the data, 
+After analyzing the data, Manhattan has the highest cost of rent for one apartment. Brooklyn is the second highest, while the third is the borough Queens.

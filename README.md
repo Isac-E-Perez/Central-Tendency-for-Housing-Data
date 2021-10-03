@@ -51,4 +51,14 @@ Therefore, the product was,
 
 ![10](https://user-images.githubusercontent.com/89553126/135771329-cfa7e316-405f-47c9-9406-e0dc7f469891.PNG)
 
+Finally, we could analyze the histogram.
+
+![2](https://user-images.githubusercontent.com/89553126/135773290-2e768ddd-57ae-4817-9adb-986fbddd6cbc.PNG)
+
+![3](https://user-images.githubusercontent.com/89553126/135773291-3455267d-40c3-4aac-bdc2-a9822a634486.PNG)
+
+![1](https://user-images.githubusercontent.com/89553126/135773292-e5183a91-f9fc-4593-8461-452c24af6c30.PNG)
+
+
+
 After analyzing the data, 
